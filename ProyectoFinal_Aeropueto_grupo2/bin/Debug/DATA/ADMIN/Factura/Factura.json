@@ -1,0 +1,18 @@
+[
+  {
+    "NumeroFactura": "111-222-33-44444444",
+    "FechaEmision": "2025-05-01T00:48:21",
+    "DNI_Pasajero": "000000000000",
+    "NombrePasajero": "Diego Nolasco",
+    "Vuelos": [
+      "HN1234"
+    ],
+    "Subtotal": 6500.0,
+    "Impuestos": 1072.500,
+    "Total": 7572.500,
+    "MetodoPago": "Efectivo",
+    "Estado": "Pendiente",
+    "Numero": null,
+    "Nombre": null
+  }
+]
